@@ -1,0 +1,22 @@
+div#product-info {
+    max-width: 700px;
+    margin: 20px auto 0;
+    padding: 20px;
+    background: #FFF;
+    border-radius: 5px;
+    border: 1px solid #DDD;
+}
+
+div#product-info h1 {
+    font-size: 32px;
+}
+
+div#product-info p {
+    color: #666;
+    line-height: 20px;
+    margin-top: 5px;
+}
+
+div#product-info p a {
+    color: #069;
+}
